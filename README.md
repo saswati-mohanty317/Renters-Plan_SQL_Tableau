@@ -1,0 +1,2 @@
+# Renters-Plan_SQL_Tableau
+Designed a database in a team of five with 10 Apartments, 189 Customer Reviews, Amenities and services provided for consulting a management group to provide better services. Process flow included Entity Relationship diagram, translating it in relation schema followed by SQL create tables and querying the database using SQL (creating views, sub querying, etc.) methods for multiple insights. Analyzing queries by visualizing multiple graphs and dashboards in Tableau, coming up with 5 critical inferences.
